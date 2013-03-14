@@ -1,0 +1,1 @@
+  <img src="../images/additional_images_for_site/signature.png" width="391" height="142" alt="signature">
